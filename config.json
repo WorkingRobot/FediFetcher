@@ -1,0 +1,6 @@
+{
+  "server": "mstdn.camora.dev",
+  "max-favourites": 50,
+  "reply-interval-in-hours": 24,
+  "remember-hosts-for-days": 7
+}
