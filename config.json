@@ -1,6 +1,13 @@
 {
   "server": "mstdn.camora.dev",
-  "max-favourites": 50,
   "reply-interval-in-hours": 24,
+  "home-timeline-length": 200,
+  "max-followings": 80,
+  "max-followers": 80,
+  "max-follow-requests": 80,
+  "max-bookmarks": 80,
+  "max-favourites": 50,
+  "from-notifications": 1,
   "remember-hosts-for-days": 7
+  "http-timeout": 10
 }
