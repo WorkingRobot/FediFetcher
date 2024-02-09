@@ -8,6 +8,6 @@
   "max-bookmarks": 80,
   "max-favourites": 50,
   "from-notifications": 1,
-  "remember-hosts-for-days": 7
+  "remember-hosts-for-days": 7,
   "http-timeout": 10
 }
